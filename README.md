@@ -27,10 +27,6 @@ I'm a passionate developer with expertise in Flutter Frameworks, IT support, and
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
-## 🏆 Achievements
-- [Specific Achievement or Award]
-- [Another Significant Accomplishment]
-
 ## 💡 Fun Fact
 When I'm not coding, you'll find me gaming or working on my car.
 
